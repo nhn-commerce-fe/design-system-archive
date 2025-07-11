@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog</id>
+    <title>NCDS Admin Blog</title>
+    <updated>2025-07-10T06:38:37.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog"/>
+    <subtitle>NCDS Admin Blog</subtitle>
+    <icon>https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v1.0.2]]></title>
+        <id>https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog/release-note-ui-admin-1.0.2</id>
+        <link href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog/release-note-ui-admin-1.0.2"/>
+        <updated>2025-07-10T06:38:37.000Z</updated>
+        <summary type="html"><![CDATA[ui-admin 릴리즈 노트 (v1.0.2)]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ui-admin-릴리즈-노트-v102">ui-admin 릴리즈 노트 (v1.0.2)<a href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog/release-note-ui-admin-1.0.2#ui-admin-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-v102" class="hash-link" aria-label="ui-admin 릴리즈 노트 (v1.0.2)에 대한 직접 링크" title="ui-admin 릴리즈 노트 (v1.0.2)에 대한 직접 링크">​</a></h2>
+<p><strong>변경일:</strong> 2025. 7. 10. (한국 표준시)</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="기능-개선">기능 개선<a href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog/release-note-ui-admin-1.0.2#%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="기능 개선에 대한 직접 링크" title="기능 개선에 대한 직접 링크">​</a></h3>
+<ul>
+<li>Next.js에서 발생하는 CSS Imported by a Dependency 오류를 수정하였습니다.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.0.1]]></title>
+        <id>https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog/release-note-ui-admin-1.0.1</id>
+        <link href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog/release-note-ui-admin-1.0.1"/>
+        <updated>2025-07-09T00:45:56.000Z</updated>
+        <summary type="html"><![CDATA[UI-Admin 릴리즈 노트 (v1.0.1)]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ui-admin-릴리즈-노트-v101">UI-Admin 릴리즈 노트 (v1.0.1)<a href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog/release-note-ui-admin-1.0.1#ui-admin-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-v101" class="hash-link" aria-label="UI-Admin 릴리즈 노트 (v1.0.1)에 대한 직접 링크" title="UI-Admin 릴리즈 노트 (v1.0.1)에 대한 직접 링크">​</a></h2>
+<p><strong>변경일:</strong> 2025. 7. 9. (한국 표준시)</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="오류-수정">오류 수정<a href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog/release-note-ui-admin-1.0.1#%EC%98%A4%EB%A5%98-%EC%88%98%EC%A0%95" class="hash-link" aria-label="오류 수정에 대한 직접 링크" title="오류 수정에 대한 직접 링크">​</a></h3>
+<ul>
+<li>패키지 사용 시 발생하던 의존성 오류를 수정하였습니다.<!-- -->
+<ul>
+<li><code>moment</code>, <code>lodash</code>, <code>lodash-es</code> 의존성이 추가되었습니다.</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="문서">문서<a href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog/release-note-ui-admin-1.0.1#%EB%AC%B8%EC%84%9C" class="hash-link" aria-label="문서에 대한 직접 링크" title="문서에 대한 직접 링크">​</a></h3>
+<ul>
+<li><strong><a href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/docs/getting-started#%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95">시작하기</a></strong> 문서에서 메인 스타일 파일의 임포트 경로를 수정하였습니다.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.0.0]]></title>
+        <id>https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog/release-note-ui-admin</id>
+        <link href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog/release-note-ui-admin"/>
+        <updated>2025-06-17T10:24:13.000Z</updated>
+        <summary type="html"><![CDATA[UI-Admin 릴리즈 노트 (v1.0.0)]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ui-admin-릴리즈-노트-v100">UI-Admin 릴리즈 노트 (v1.0.0)<a href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog/release-note-ui-admin#ui-admin-%EB%A6%B4%EB%A6%AC%EC%A6%88-%EB%85%B8%ED%8A%B8-v100" class="hash-link" aria-label="UI-Admin 릴리즈 노트 (v1.0.0)에 대한 직접 링크" title="UI-Admin 릴리즈 노트 (v1.0.0)에 대한 직접 링크">​</a></h2>
+<p><strong>변경일:</strong> 2025. 6. 17. (한국 표준시)</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="문서">문서<a href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/blog/release-note-ui-admin#%EB%AC%B8%EC%84%9C" class="hash-link" aria-label="문서에 대한 직접 링크" title="문서에 대한 직접 링크">​</a></h3>
+<ul>
+<li>NCDS Admin의 <strong><a href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/docs/intro">소개 및 사용방법</a></strong> 문서를 추가하였습니다.</li>
+<li>NCDS Admin의 <strong><a href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/docs/components/badge">컴포넌트</a></strong> 문서를 추가하였습니다.</li>
+<li>NCDS Admin의 <strong><a href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/icon">아이콘</a></strong> 문서를 추가하였습니다.</li>
+<li>NCDS Admin의 <strong><a href="https://nhn-commerce-fe.github.io/admin-ui-archive/@ncds/ui-admin/1.0.2/docs/step-guide/quick-start">스텝가이드</a></strong> 문서를 추가하였습니다.</li>
+</ul>]]></content>
+    </entry>
+</feed>
